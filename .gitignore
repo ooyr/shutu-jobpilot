@@ -1,0 +1,30 @@
+# 本地采集结果、分析报告与投递草稿
+.jobpilot/
+
+# 浏览器配置、会话与登录态
+.playwright/
+.playwright-cli/
+.auth/
+browser-profile/
+chrome-profile/
+*storage-state*.json
+*storageState*.json
+*cookies*.json
+
+# 个人简历
+resume.md
+resume.txt
+resume.pdf
+resumes/
+
+# 密钥与本地配置
+.env
+.env.*
+!.env.example
+
+# 依赖、缓存与系统文件
+node_modules/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
