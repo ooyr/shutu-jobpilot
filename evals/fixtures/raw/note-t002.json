@@ -1,0 +1,37 @@
+{
+  "_test_data_only": true,
+  "note_id": "t002",
+  "url": "https://www.xiaohongshu.com/explore/t002?xsec_token=test",
+  "title": "示例科技 后端实习 一面凉经",
+  "desc": "10.20 投递，10.25 一面，10.30 收到感谢信。一面问了 MySQL 索引、Python 装饰器、并发场景。感觉偏基础但问得深。",
+  "author": "测试用户B",
+  "published_text": "2026-10-28",
+  "likes": 45,
+  "collects": 12,
+  "comments_count": 2,
+  "comments": [
+    {
+      "cid": "c4",
+      "author": "路人丙",
+      "content": "同批挂了，一面问的八股特别细",
+      "likes": 9,
+      "time_text": "2026-10-29",
+      "is_reply": false
+    },
+    {
+      "cid": "c5",
+      "author": "路人丁",
+      "content": "我 10 月投的还没消息，是不是 HC 没了",
+      "likes": 3,
+      "time_text": "2026-10-30",
+      "is_reply": false
+    }
+  ],
+  "diagnostics": {
+    "expanded": true,
+    "comments_loaded": true,
+    "comments_partial": false,
+    "blocked": null,
+    "login_wall": false
+  }
+}

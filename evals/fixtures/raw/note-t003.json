@@ -1,0 +1,29 @@
+{
+  "_test_data_only": true,
+  "note_id": "t003",
+  "url": "https://www.xiaohongshu.com/explore/t003?xsec_token=test",
+  "title": "示例科技 后端实习 招聘 base北京",
+  "desc": "示例科技后端实习招聘，base 北京，HC 2 个，本周有效。要求熟悉 Python、MySQL、Redis，能实习 6 个月。投递邮箱 hr@example.com，简历命名岗位+姓名。",
+  "author": "测试HR",
+  "published_text": "3天前",
+  "likes": 12,
+  "collects": 8,
+  "comments_count": 1,
+  "comments": [
+    {
+      "cid": "c6",
+      "author": "路人戊",
+      "content": "接受远程吗？",
+      "likes": 2,
+      "time_text": "2天前",
+      "is_reply": false
+    }
+  ],
+  "diagnostics": {
+    "expanded": true,
+    "comments_loaded": true,
+    "comments_partial": false,
+    "blocked": null,
+    "login_wall": false
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_test_data_only": true,
+  "note_id": "t001",
+  "url": "https://www.xiaohongshu.com/explore/t001?xsec_token=test",
+  "title": "示例科技 后端三面面经",
+  "desc": "9.12 投递，9.18 一面，问 Redis 缓存穿透和 HTTP 状态码。9.25 二面，手写 LRU，聊项目。10.2 三面主管面，问系统设计。10.8 OC。整体 26 天，节奏正常。",
+  "author": "测试用户A",
+  "published_text": "2026-09-20",
+  "likes": 128,
+  "collects": 45,
+  "comments_count": 3,
+  "comments": [
+    {
+      "cid": "c1",
+      "author": "路人甲",
+      "content": "二面我也被问了手写 LRU，还有 MySQL 索引优化",
+      "likes": 18,
+      "time_text": "2026-09-21",
+      "is_reply": false
+    },
+    {
+      "cid": "c2",
+      "author": "路人乙",
+      "content": "请问三面大概多久出结果呀？",
+      "likes": 6,
+      "time_text": "2026-09-25",
+      "is_reply": false
+    },
+    {
+      "cid": "c3",
+      "author": "引流号",
+      "content": "需要内推的加微信，付费保过",
+      "likes": 0,
+      "time_text": "2026-09-22",
+      "is_reply": false
+    }
+  ],
+  "diagnostics": {
+    "expanded": true,
+    "comments_loaded": true,
+    "comments_partial": false,
+    "blocked": null,
+    "login_wall": false
+  }
+}
